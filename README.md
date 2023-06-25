@@ -34,6 +34,7 @@ Studies :
         <img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white" alt="c"/>
         <img align="center" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
         <img align="center" src="https://img.shields.io/badge/-JAVA-f89820?style=for-the-badge&logo=Java&logoColor=white" alt="java"/>
+        <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native"/>
         <img align="center" src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python&style=for-the-badge&logoColor=white" alt="python"/>
         <img align="center" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&style=for-the-badge&logoColor=white" alt="php"/>
         <img align="center" src="https://img.shields.io/badge/-MYSQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white" alt="mysql"/>
