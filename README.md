@@ -1,3 +1,5 @@
+<img src="./Images/banniere.jpg" />
+
 ### Hi there 👋
 
 Augustin, 22 years old, a french student in computer science.  
@@ -11,7 +13,7 @@ Studies :
   
 ### Stay Connected : 
 
-[<img align="left" alt="samuel | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520" />](https://www.linkedin.com/in/augustin-giraudier/)
+[<img align="left" alt="Augustin Giraudier | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520" />](https://www.linkedin.com/in/augustin-giraudier/)
 
 <br/>
 
