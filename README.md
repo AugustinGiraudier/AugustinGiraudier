@@ -1,4 +1,4 @@
-<img src="./Images/banniere.jpg" />
+<img src="./Images/Banier.png" />
 
 ### Hi there 👋
 
