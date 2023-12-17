@@ -5,7 +5,7 @@
 Augustin, 22 years old, a french student in computer science.  
 
 Studying at : 
-- Universite Clermont-Auvergne, France
+- Université Cote d'Azur, France
 
 Studies :  
 - Master in IT and software architecture
