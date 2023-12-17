@@ -8,7 +8,8 @@ Studying at :
 - Universite Clermont-Auvergne, France
 
 Studies :  
-- Professional degree in Application development for mobile platforms : 2022-now  
+- Master in IT and software architecture
+- Professional degree in Application development for mobile platforms : 2022-2023  
 - Two years Diploma in Computer Science : 2020-2022
   
 ### Stay Connected : 
